@@ -1,0 +1,13 @@
+SOLID principles: SOLID is an acronym that represents five design principles for software development that make software more understandable,
+flexible, and maintainable. These principles are primarily used in object-oriented programming
+
+1. Single Responsibility Principle:
+2. Open/Close Principle:
+3. Liskok Substitution Principle:
+4. Interface Segregation Principle:
+5. Dependency Inversion Principle:
+
+
+5. Dependency Inversion Principle:
+    a. High-level modules should not depend on low-level modules. Both should depend on abstractions.
+    b. Abstractions should not depend on details. Details should depend on abstractions.

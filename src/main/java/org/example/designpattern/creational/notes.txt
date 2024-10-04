@@ -1,0 +1,11 @@
+Creational design patterns deal with object creation mechanisms. These patterns are particularly useful when object creation is complex,
+ involves multiple steps, or needs to follow certain constraints.
+
+Types of Creational Design Patterns:
+There are five main types of creational design patterns:
+
+ 1. Singleton Pattern
+ 2. Factory Method Pattern
+ 3. Abstract Factory Pattern
+ 4. Builder Pattern
+ 5. Prototype Pattern
